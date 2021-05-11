@@ -1,5 +1,11 @@
-### Hi there 👋
+![](https://i.redd.it/8hkekbti9a221.jpg)
+# My name is Gabriel 
+## Web and Game Developer currently working on awesome projects and meeting lots of new people along the way!
 
+### My babies:
+![🎮🎵 My First Game: Brad](https://gabrielhager.itch.io/brad)
+
+![🎮 ⚔ My Current Game: Pixel Dungeon 5000](https://pixeldungeon5k.com/Index.html)
 <!--
 **gabrielhager/gabrielhager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
